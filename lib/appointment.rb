@@ -16,14 +16,6 @@ class Appointment
   def self.all 
     @@all
   end
-  
-  def doctors
-    self.doctors
-  end
-  
-  def patients
-    self.patient
-  end
-
+ 
   
 end
